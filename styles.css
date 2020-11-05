@@ -1,7 +1,26 @@
-body {
-  background-color:lightblue;
-  }
+body{
+  background-color: slategrey;
+}
 
-h1 {
+h1{
   font-size:20;
+  font-style:italic;
+}
+
+#header{
+  background-color: mistyrose;
+  width:1200px;
+  padding:30px;
+  margin:20px;
+  border: 8px solid navy;
+  border-radius:30px;
+}
+
+#body1{
+  width:900px;
+  height:900px;
+  margin:auto;
+  background-color: mistyrose;
+  border:8px solid navy;
+  border-radius:30px;
 }
