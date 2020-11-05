@@ -8,8 +8,8 @@ h1{
 }
 
 #header{
-  background-color: mistyrose;
-  width:1200px;
+  background-color: azure;
+  width:1300px;
   padding:30px;
   margin:20px;
   border: 8px solid dimgrey;
@@ -20,8 +20,7 @@ h1{
   width:900px;
   height:900px;
   margin:auto;
-  background-color: mistyrose;
+  background-color: azure;
   border:8px solid dimgrey;
   border-radius:30px;
 }
-
